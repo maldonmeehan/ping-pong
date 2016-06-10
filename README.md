@@ -2,7 +2,7 @@
 
 #### _Ping-Pong Converter, June 9, 2016_
 
-#### By _**SMaldon Meehan, Epicodus**_
+#### By _**Maldon Meehan, Epicodus**_
 
 ## Description
 
