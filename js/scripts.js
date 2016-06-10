@@ -1,9 +1,19 @@
-// JavaScript/jQuery Business Logic
-var message = "";
+var answer = "";
 
-// JavaScript/jQuery Front-End Logic
-$(document).ready(function() {
-  $("form#ping-pong-converter").submit(function(event){
-    event.preventDefault();
-  });
+$("#play").click(function() {
+  var inputNumber = parseInt($("#myNumber").val());
+  for (i=1; i<=inputNumber; i++) {
+    debugger;
+    if (i%15===0) {
+      answer = "ping-pong";
+    } else if (i%5===0) {
+      answer = "pong";
+    } else if (i%3===0) {
+      answer = "ping";
+    } else {
+      answer = i;
+    }
+    $("#pingpong").append("<li>" + answer + "</li>");
+  }
+
 });
