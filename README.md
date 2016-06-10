@@ -30,7 +30,7 @@ Output the entire list in | 15 |(1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,1
 
 ## Known Bugs
 
-* _non at this time_
+* _List keeps amending new anwsers unless the users refreshes the page_
 
 ## Support and contact details
 

@@ -1,11 +1,11 @@
-// $(document).ready(function(){
-//   event.preventDefault();
-// }
 var answer = "";
 
-$("#play").click(function() {
-  var inputNumber = parseInt($("#myNumber").val());
-  for (i=1; i<=inputNumber; i++) {
+$("#play").click(function(event) {
+  event.preventDefault();
+  // $("ul#pingpong" li).remove();
+  var inputNumber = parseInt($("#yourNumber").val());
+  for (i=1; i<=inputNumber; i++)
+  {
     if (i%15===0) {
       answer = "ping-pong";
     } else if (i%5===0) {
@@ -16,6 +16,5 @@ $("#play").click(function() {
       answer = i;
     }
     $("#pingpong").append("<li>" + answer + "</li>");
-    // $("#outcomepingpong").show();
   }
 });
