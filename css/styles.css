@@ -5,3 +5,8 @@ body {
 #result {
   display: none;
 }
+
+h1{
+  font-family: cursive;
+  text-align: left;
+}
