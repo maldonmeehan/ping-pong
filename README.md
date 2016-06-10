@@ -30,7 +30,7 @@ Output the entire list in | 15 |(1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,1
 
 ## Known Bugs
 
-* _List keeps amending new anwsers unless the users refreshes the page_
+* _List keeps amending new answers unless the users refreshes the page, currenlty cant get the remove function to work_
 
 ## Support and contact details
 
