@@ -1,8 +1,9 @@
 body {
     background-color: #d0e4fe;
+    /*background-image: url("../img/pingpong.png");*/
 }
 
-#outputpingpong {
+#outcomepingpong {
   display: none;
 }
 
@@ -10,3 +11,10 @@ h1{
   font-family: cursive;
   text-align: left;
 }
+
+/*.jumbotron.pingpong {
+  margin-top: 20px;
+  background-position: 0% 60%;
+  background-size: cover;
+  color: black;
+}*/
