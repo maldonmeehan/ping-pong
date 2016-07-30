@@ -1,16 +1,16 @@
-# _EPICODUS STUDENT PROJECT | Arrays and Looping: Build a Ping-Pong Converter_
+# EPICODUS STUDENT PROJECT | Arrays and Looping: Build a Ping-Pong Converter
 
-#### _Ping-Pong Converter, June 9, 2016_
+#### Ping-Pong Converter, June 9, 2016
 
-#### By _**Maldon Meehan, Epicodus**_
+#### By **Maldon Meehan, Epicodus**
 
 ## Description
 
-_This is an Epicodus student project to create a web application that takes a number from a user and returns a range of numbers from 1 to the inputed number with the following exceptions:_
-* _Numbers divisible by 3 are replaced with "ping"_
-* _Numbers divisible by 5 are replaced with "pong"_
-* _Numbers divisible by 15 are replaced with "pingpong"_
-* _The user will be able to a new number and see new results over and over again._
+This is an Epicodus student project to create a web application that takes a number from a user and returns a range of numbers from 1 to the inputed number with the following exceptions:
+* Numbers divisible by 3 are replaced with "ping"
+* Numbers divisible by 5 are replaced with "pong"
+* Numbers divisible by 15 are replaced with "pingpong"
+* The user will be able to a new number and see new results over and over again.
 
 Behavior  | Input Example | Output Example
 ------------- | ------------- | -------------
@@ -23,38 +23,27 @@ Output the entire list in | 15 |(1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,1
 
 ## Setup/Installation Requirements
 
-* _Establish an internet connection_
-* _Open a web browser_
-* _Visit GitHub Repo: <a href="https://github.com/SkyRousse/roman-numerals.git">https://github.com/SkyRousse/roman-numerals.git</a>_
-* _Enter a number and enjoy!_
+* Open a web browser_
+* Download this repo
 
 ## Known Bugs
 
-* _List keeps amending new answers unless the users refreshes the page, currenlty cant get the remove function to work_
+* List keeps amending new answers unless the users refreshes the page, currently can't get the remove function to work
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas, or concerns, please feel free to contact Maldon at <a href="mailto:maldonmeehan@gmail.com">maldonmeehan@gmail.com</a>._
+If you run into any issues or have questions, ideas, or concerns, please feel free to contact Maldon on github.
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _JavaScript_
-* _jQuery (jquery-1.12.4.js)_
-* _Bootstrap (bootstrap.min.css)_
-* _Atom_
-* _Terminal_
-* _Git_
+* HTML
+* CSS
+* JavaScript
+* jQuery (jquery-1.12.4.js)
+* Bootstrap (bootstrap.min.css)
 
 ### License
 
 *MIT License*
 
 Copyright (c) 2016 **_Maldon Meehan, Epicodus_**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
